@@ -6,7 +6,7 @@
 
     **1.** To Create a customer performance report
 
-    **2.** To Conduct a comprehensive comparison between market performance and sales targets
+    **2.** To Conduct a comprehensive comparison between market performance and sales targets  https://github.com/koushiksss/AtliQ-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf
   
 - **Purpose of sales analytics:** To enable businesses to track and assess their sales activities and performance.
 
